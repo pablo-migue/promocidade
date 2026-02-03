@@ -1,0 +1,34 @@
+[
+  {
+    "produto": "Arroz 5kg",
+    "categoria": "Alimentos",
+    "pp": 24.90,
+    "alio": 26.50,
+    "biagi": 23.99,
+    "buganca": 25.80
+  },
+  {
+    "produto": "Feijão 1kg",
+    "categoria": "Alimentos",
+    "pp": 7.99,
+    "alio": 8.50,
+    "biagi": 7.49,
+    "buganca": 8.20
+  },
+  {
+    "produto": "Sabonete",
+    "categoria": "Higiene",
+    "pp": 2.50,
+    "alio": 2.80,
+    "biagi": 2.30,
+    "buganca": 2.60
+  },
+  {
+    "produto": "Detergente",
+    "categoria": "Limpeza",
+    "pp": 2.99,
+    "alio": 3.20,
+    "biagi": 2.89,
+    "buganca": 3.10
+  }
+]
